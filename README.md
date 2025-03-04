@@ -1,2 +1,2 @@
 # movie-server
-init
+init go-zore server
