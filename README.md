@@ -1,2 +1,3 @@
-# movie-server
-init go-zore server
+# movies_server
+this's go-zore movies server project
+
